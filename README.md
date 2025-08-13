@@ -1,6 +1,5 @@
 Here's a simple `README.md` template you can use for your project. It includes sections like project description, setup instructions, and usage.
 
----
 
 # Calculator Project
 
